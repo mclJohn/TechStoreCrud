@@ -39,9 +39,7 @@ Clique em Criar.
 
 No painel do phpMyAdmin, selecione o banco de dados usuarios e, em seguida use os dados do config.php para criar o banco de dados
 
-
-4. Acessando o Sistema
-Abra o navegador e vá para http://localhost/TechStore.
+4. no terminal, coloque o seguinte código: php -S localhost:8000 para inciar o projeto, e siga no link fornecido http://localhost:8000/
 
 Você verá a página inicial com as opções para cadastrar e listar os produtos.
 
